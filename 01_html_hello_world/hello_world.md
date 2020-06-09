@@ -4,7 +4,7 @@ Welcome to this introduction to web development course! Here, you will learn the
 
 ## HTML
 
-HTML stands for Hyper Text Markup Language. An HTML document is used to create web pages, as describes their structure. A web browser parses HTML code and renders a web page. HTML describes web pages using elements. An element tells the browser how to render a certain part of a website, for example, an element can be a heading, paragraph, link, image, and so on. 
+HTML stands for Hyper Text Markup Language. An HTML document is used to create web pages by describing their structure. A web browser parses HTML code and renders a web page. HTML describes web pages using elements. An element tells the browser how to render a certain part of a website, for example, an element can be a heading, paragraph, link, image, and so on. 
 
 Let's take a look at some basic HTML code:
 
