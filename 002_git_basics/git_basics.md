@@ -856,4 +856,4 @@ Now you can updated the codebase and push your changes.
 
 And those are the basics! Congrats, you are now ready to work with Git! Git is great to use for projects with other developers, or on your own personal projects. I strongly recommend using it as much as you can, because recruiters and hiring managers often use it when looking at potential employees. It is also a great place to backup all your code.
 
-For the rest of this course, it would be wise to save all sample code in either one large git repositories, or several small ones. The next lecture will be returning to HTML.
+For the rest of this course, it would be wise to save all sample code in either one large git repository, or several small ones. The next lecture will be returning to HTML.
