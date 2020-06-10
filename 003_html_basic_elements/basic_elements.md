@@ -163,7 +163,7 @@ If, for example, you wanted to make text that was both bold and italic, you woul
 </p>
 ```
 
-Now, this is where it is very important to not only close each tag correctly, but it is also bad practice to not close tags in the same order they are opened. This is where browsers can sometimes not be helpful in terms of finding bad code. For example, the following HTML code is technically invalid, but the browser will still render it the same as before:
+Now, this is where it is very important to not only close each tag correctly, but it is also bad practice to not close tags in the proper order by which they are opened. This is where browsers can sometimes not be helpful in terms of finding bad code. For example, the following HTML code is technically invalid, but the browser will still render it the same as before:
 
 ```html
 <p>
@@ -171,7 +171,7 @@ Now, this is where it is very important to not only close each tag correctly, bu
 </p>
 ```
 
-What is important to keep in mind is that if you open a tag inside of another tag, a hierarchy is created. In this example, the `<em>` tag belongs to, or is a child of `<strong>` tag. And the `<strong>` tag is a child of the `<p>`. It does not makes sense to close a child tag before its parent. This is why in the valid HTML, the `<em>` is closed before the `<strong>`.
+What is important to keep in mind is that if you open a tag inside of another tag, a hierarchy is created. In this example, the `<em>` tag belongs to, or is a child of the `<strong>` tag. And the `<strong>` tag is a child of the `<p>`. It does not makes sense to close a child tag before its parent. This is why in the valid HTML, the `<em>` is closed before the `<strong>`.
 
 ### Subscripts and Superscripts
 
