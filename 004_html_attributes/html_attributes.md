@@ -66,7 +66,7 @@ Now adding this attribute did not do much to the content of the web page, but la
 
 ### Quotes in Attribute Value
 
-Before moving on, due to the way computer's process text, having quotes inside the value of an attribute can be a problem. Consider the following code:
+Before moving on, due to the way computers process text, having quotes inside the value of an attribute can be a problem. Consider the following code:
 
 ```html
 <h1 id="This name has "quotes" in it">Heading</h1>
@@ -109,7 +109,7 @@ HTML entities are incredibly useful, especially if you need to include special c
 
 ## Links
 
-Know that we know about attributes, we can now create links on our web page! Links are basically what make the internet the vast network that we all know and love. With links, you can start making web sites that are made up of multiple pages. Links are creating using the anchor element. An anchor element can link you to a different part of a web page, to another page on the same website, or to another website entirely. Anchor elements are defined using the `<a>` tag, and the destination of the link is defined with the `href` attribute. `href` stands for Hypertext Reference. Let's take a look at an example in a file called `index.html`:
+Now that we know about attributes, we can now create links on our web page! Links are basically what make the internet the vast network that we all know and love. With links, you can start making web sites that are made up of multiple pages. Links are created using the anchor element. An anchor element can link you to a different part of a web page, to another page on the same website, or to another website entirely. Anchor elements are defined using the `<a>` tag, and the destination of the link is defined with the `href` attribute. `href` stands for Hypertext Reference. Let's take a look at an example in a file called `index.html`:
 
 ```html
 <h1 id="page-title">Fun with Attributes</h1>
