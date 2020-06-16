@@ -88,7 +88,7 @@ The difference here is that the browser renders each element with a number in as
 ```
 ## Conclusion
 
-When writing HTML, nesting is an inevitability. Learning how to write clean code early will help build the discipline to always write clean code in the future. With the ability to nest code, elements such as the unordered list and ordered list are made possible. However, any element can have nested elements, and this will be used to make more complex web pages in the future. 
+When writing HTML, nesting is an inevitability. Learning how to write clean code early will help build the discipline to always write clean code in the future. With the ability to nest code, elements such as the unordered list and ordered list are made possible. However, any element can have nested elements, and this will be used to make more complex web pages in the future. Next, we will be talking about HTML tables.
 
 ## Challenge
 
