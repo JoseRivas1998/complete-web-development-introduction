@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tables</title>
+</head>
+
+<body>
+    <h2>Employees</h2>
+    <table border="1px">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th colspan="2">Phone Number</th>
+                <th>Department</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>John Doe</td>
+                <td>555-123-4567</td>
+                <td>555-314-456</td>
+                <td>Development</td>
+            </tr>
+            <tr>
+                <td>Jane Bar</td>
+                <td colspan="2">555-789-1234</td>
+                <td>Management</td>
+            </tr>
+        </tbody>
+    </table>
+    <h2>Employees Horizontal</h2>
+    <table border="1px">
+        <tbody>
+            <tr>
+                <th>Name</th>
+                <td>John Doe</td>
+                <td>Jane Bar</td>
+            </tr>
+            <tr>
+                <th rowspan="2">Phone Number</th>
+                <td>555-123-4567</td>
+                <td rowspan="2">555-789-1234</td>
+            </tr>
+            <tr>
+                <td>555-314-456</td>
+            </tr>
+            <tr>
+                <th>Department</th>
+                <td>Development</td>
+
+                <td>Management</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table border="1">
+        <thead>
+            <th colspan="2">
+                <h1>My Awesome Website</h1>
+            </th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <ul>
+                        <li>
+                            <a href="#">Page1</a>
+                        </li>
+                        <li>
+                            <a href="#">Page2</a>
+                        </li>
+                        <li>
+                            <a href="#">Page3</a>
+                        </li>
+                        <li>
+                            <a href="#">Page4</a>
+                        </li>
+                        <li>
+                            <a href="#">Page5</a>
+                        </li>
+                    </ul>
+                </td>
+                <td>
+
+                    <h2>Page Title</h2>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus molestias debitis tenetur
+                        deserunt rem voluptatem iste deleniti ea ducimus natus est necessitatibus vero at illum
+                        excepturi repudiandae officia sequi eius blanditiis incidunt harum, nesciunt magnam omnis.
+                        Dolorum nihil architecto nobis quas eius nisi rerum incidunt. Numquam mollitia deserunt eius
+                        hic.
+                    </p>
+                </td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th colspan="2">
+                    &copy; 2020 Tiny Country Games, All Rights Reserved
+                </th>
+            </tr>
+        </tfoot>
+    </table>
+
+</body>
+
+</html>
