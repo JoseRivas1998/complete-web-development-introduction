@@ -319,7 +319,7 @@ So, now we have all of our styling inside of the `<style>` tag like this:
 </style>
 ```
 
-And while this is great, and separates the structure of the page from the formatting, it still forces us to updated the HTML file when we just want to update the styles. So the two are less coupled, but can still be decoupled further. Let's do this by using an external style sheet. Highlight all of the code between the `<style>` tag, cut it, and paste it to a new file called `styles.css`:
+And while this is great, and separates the structure of the page from the formatting, it still forces us to update the HTML file when we just want to update the styles. So the two are less coupled, but can still be decoupled further. Let's do this by using an external style sheet. Highlight all of the code between the `<style>` tag, cut it, and paste it to a new file called `styles.css`:
 
 ```css
 body {
