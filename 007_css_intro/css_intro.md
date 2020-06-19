@@ -2,7 +2,7 @@
 
 The web pages that we have built so far have been fairly boring. All the text is completely left aligned, with few exceptions, and the websites are completely black and white. The font of the text is at the mercy of the default font for your web browser, which usually ends up being Times New Roman. Clearly, we should be able to do better. 
 
-In the early days, the formatting problem was attempted to be solved through HTML, they started adding tags and attributes that would change the formatting of the page. There would be a tag to change text color, or to center on the page, and as we saw in the last texture, there were attributes to set things like borders on elements. 
+In the early days, the formatting problem was attempted to be solved through HTML, they started adding tags and attributes that would change the formatting of the page. There would be a tag to change text color, or to center on the page, and as we saw in the last lecture, there were attributes to set things like borders on elements. 
 
 This violated the purpose of HTML, which is to define the structure of a web page, not the formatting. This strongly coupled structure and formatting and made working on websites much harder. Because of this, Cascading Style Sheet, CSS, was invented.
 
