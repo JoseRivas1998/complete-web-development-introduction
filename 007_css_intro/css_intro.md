@@ -12,7 +12,7 @@ A well renowned software engineer and author, Robert C. Martin defined a coding 
 
 So, if the structure of a web page needs to change, it is the HTML that should be changed. If the formatting of a web page needs to be changed, it should be something else. That something else is CSS. With the addition of CSS, the formatting of web pages is decoupled from their structure. 
 
-There are many places to place CSS styles in a web page, three in particular, and you will likely use all of them. There is a hierarchy how how much each place should be used. In this lecture, they are listed from worst place to put CSS to the best.
+There are many places to place CSS styles in a web page, three in particular, and you will likely use all of them. There is a hierarchy of how much each place should be used. In this lecture, they are listed from worst place to put CSS to the best.
 
 ## Inline CSS
 
